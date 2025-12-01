@@ -1,2 +1,1 @@
-# INE5410
-INE5410 - Programação Concorrente
+# INE5410 - Programação Concorrente
